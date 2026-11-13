@@ -1,7 +1,7 @@
 <h1>Alexandre Manzo</h1>
 
-**Engenheiro de Dados · Business Intelligence** — Belo Horizonte, Brasil
-*Data Engineer · Business Intelligence — Belo Horizonte, Brazil*
+**Engenheiro de Dados · Business Intelligence**
+*Data Engineer · Business Intelligence*
 
 Transformo dados espalhados em informação confiável para decisão: modelagem
 dimensional, pipelines de carga com rastreabilidade e dashboards que respondem
